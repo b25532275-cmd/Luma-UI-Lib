@@ -1,8 +1,8 @@
 # Luma UI Lib
 
-**A desktop-focused Roblox Luau UI library by x089.** Version `0.1.0-beta`.
+**Luau UI library.** Version `0.1.0-beta`.
 
-Luma is the library; **Luma Zero** is an application built with it. This package is UI-only, with no gameplay actions.
+Luma is the library
 
 ## Included
 
@@ -53,11 +53,6 @@ Release uses basic identifier obfuscation/token compaction. Client code can be r
 ## Docs
 
 - [API](docs/API.md)
-- [Visual layer contract](docs/VISUALS.md)
-- [Publication guide / Публикация](docs/PUBLISH_RU.md)
-- [Protection / Защита](docs/PROTECTION_RU.md)
-- [Release checklist](docs/RELEASE_CHECKLIST_RU.md)
-- [Test report](docs/TEST_REPORT.md)
 
 ## License
 
