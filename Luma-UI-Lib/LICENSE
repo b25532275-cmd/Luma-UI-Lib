@@ -1,0 +1,16 @@
+LUMA COMMUNITY USE LICENSE — Version 1.0 (proposed project terms)
+Copyright (c) 2026 x089
+
+1. Scope. These terms apply only to the Luma UI Lib implementation and accompanying Luma-authored materials. Third-party icon artwork is excluded and remains governed by its own ISC/MIT licenses in third-party/.
+
+2. Permission. The copyright holder grants a free, non-exclusive right to use the distributed Luma UI Lib release in personal or commercial scripts, call its public API, and redistribute that release unmodified as a dependency of such scripts, provided the conditions below are retained. You may modify supplied integration examples for your applications.
+
+3. Attribution. Preserve this license, copyright notices, third-party notices, and the library's visible “Luma UI Lib · x089” attribution in normal use. Do not claim authorship of the Luma library or suggest endorsement by x089 without permission. Applications may display their own name alongside the library attribution.
+
+4. Modified library redistribution. Distribution of modified or deobfuscated Luma implementation source, rebranding the library as another author's UI, or selling the library itself requires separate written permission from x089. This license does not restrict rights that applicable law does not permit to be restricted. Private owner development and separately approved forks are not prohibited.
+
+5. No warranty. THE MATERIALS ARE PROVIDED “AS IS”, WITHOUT WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, SECURITY OR RESISTANCE TO REVERSE ENGINEERING. TO THE EXTENT ALLOWED BY LAW, THE COPYRIGHT HOLDER IS NOT LIABLE FOR DAMAGES ARISING FROM USE.
+
+6. Termination. Permission ends for a material breach not remedied after notice from the copyright holder. Statutory rights and the separate third-party licenses are unaffected.
+
+This is a community-use/source-restricted license, not an OSI-approved open-source license. The project owner should review or replace these proposed terms before public publication. No technical copy-prevention guarantee is made.
